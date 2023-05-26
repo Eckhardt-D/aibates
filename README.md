@@ -16,7 +16,7 @@ Link the cli tool
 
 Try it out
 
-    aibates
+    aibate
 
 # Note about API key & usage
 
